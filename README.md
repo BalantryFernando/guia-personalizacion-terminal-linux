@@ -2,9 +2,9 @@
   <img src="https://github.com/BalantryFernando/guia-personalizacion-terminal-linux/blob/main/banner.png?raw=true" alt="Mi Banner Profesional" width="1200">
 </p>
 
-Guía Completa para Personalizar tu Terminal en Linux 🐧✨
+# Guía Completa para Personalizar tu Terminal en Linux 🐧✨
 
-¡Hola! 👋 ¿Cansado de la típica terminal en blanco y negro? En esta guía, te mostraré cómo transformar tu aburrida terminal en un entorno de trabajo potente, visualmente atractivo y, sobre todo, **tuyo**.
+## ¡Hola! 👋 ¿Cansado de la típica terminal en blanco y negro? En esta guía, te mostraré cómo transformar tu aburrida terminal en un entorno de trabajo potente, visualmente atractivo y, sobre todo, **tuyo**.
 
 Pasaremos por tres niveles de personalización:
 1.  **Banner de Bienvenida con Arte ASCII**: Un toque personal para recibirte cada vez que abres la terminal.
