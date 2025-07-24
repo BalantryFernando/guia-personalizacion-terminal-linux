@@ -72,7 +72,9 @@ nano ~/.bashrc
 ```
 
 Desplázate hasta el **final del archivo** y pega todas las líneas con `echo` que preparaste. Guarda los cambios (**Ctrl + O**) y sal del editor (**Ctrl + X**).
-
+<p align="center">
+  <img src="https://github.com/BalantryFernando/guia-personalizacion-terminal-linux/blob/main/comamds.png?raw=true" alt="Mi Banner Profesional" width="1200">
+</p>
 ¡La próxima vez que abras una terminal, verás tu banner!
 
 ---
