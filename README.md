@@ -143,6 +143,7 @@ Guarda (**Ctrl + O**) y sal (**Ctrl + X**). Reinicia tu terminal para ver los ca
 <p align="center">
   <img src="https://github.com/BalantryFernando/guia-personalizacion-terminal-linux/blob/main/imagen.png?raw=true" alt="Profesional" width="1200">
 </p>
+
 ---
 
 ## Parte 3: Fondo de Pantalla y Transparencia con Tilix (Para Ubuntu y otros SO)
