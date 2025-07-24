@@ -71,10 +71,11 @@ Abre tu archivo de configuración (`.bashrc`, `.zshrc`, etc.) con un editor como
 nano ~/.bashrc
 ```
 
-Desplázate hasta el **final del archivo** y pega todas las líneas con `echo` que preparaste. Guarda los cambios (**Ctrl + O**) y sal del editor (**Ctrl + X**).
+Desplázate hasta el **final del archivo** y pega todas las líneas con `echo` que preparaste. 
 <p align="center">
   <img src="https://github.com/BalantryFernando/guia-personalizacion-terminal-linux/blob/main/comamds.png?raw=true" alt="Mi Banner Profesional" width="1200">
 </p>
+Guarda los cambios (**Ctrl + O**) y sal del editor (**Ctrl + X**).
 ¡La próxima vez que abras una terminal, verás tu banner!
 
 ---
