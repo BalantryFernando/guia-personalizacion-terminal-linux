@@ -141,7 +141,7 @@ OSH_THEME="powerline"
 
 Guarda (**Ctrl + O**) y sal (**Ctrl + X**). Reinicia tu terminal para ver los cambios.
 <p align="center">
-  <img src="https://github.com/BalantryFernando/guia-personalizacion-terminal-linux/blob/main/banner.png?raw=true" alt="Mi Banner Profesional" width="1200">
+  <img src="https://github.com/BalantryFernando/guia-personalizacion-terminal-linux/blob/main/imagen.png?raw=true" alt="Profesional" width="1200">
 </p>
 ---
 
