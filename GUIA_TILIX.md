@@ -81,6 +81,6 @@ Con la configuración ya lista, aplicar los cambios visuales es muy sencillo:
 5.  Aquí encontrarás las opciones:
     * **Fondo**: Marca la casilla **"Usar imagen de fondo"** y selecciona el archivo de imagen que deseas usar.
     * **Transparencia**: Mueve el deslizador de **"Transparencia"** hasta encontrar el nivel que más te guste.
-      ##👀  Cambiar la transparencia aveces es necesario para que se muestre tu imagen de fondo 👀## 
+ ##  👀  Cambiar la transparencia aveces es necesario para que se muestre tu imagen de fondo 👀## 
 
 ¡Y eso es todo! Has configurado Tilix para tener una apariencia totalmente personalizada e integrada con tu escritorio.
