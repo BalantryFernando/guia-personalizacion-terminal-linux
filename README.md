@@ -179,16 +179,32 @@ Para que Tilix pueda manejar fondos, a veces es necesario un pequeño ajuste.
 
 > **❓ ¿No encuentras el archivo `vte`?** Si el primer comando no devuelve nada, reinstala la librería VTE con `sudo apt install --reinstall libvte-2.91-common` y vuelve a intentarlo.
 
-### Paso 3: Configurar la Apariencia en Tilix
+---
 
-1.  Abre **Tilix**.
-2.  Haz clic derecho en cualquier parte de la terminal y ve a `Perfiles` -> `Editar Perfil`.
-3.  Ve a la pestaña `Apariencia`.
-4.  Aquí puedes:
-    * Activar la opción **"Usar imagen de fondo"** y seleccionar el archivo que quieras.
-    * Ajustar el control deslizante de **"Transparencia"** para que el fondo de tu escritorio sea visible.
+## Parte 3: Fondo de Pantalla y Transparencia
 
-¡Y listo! Ya tienes una terminal completamente personalizada, funcional y con un aspecto increíble.
+La guinda del pastel es integrar visualmente la terminal con tu escritorio mediante un fondo personalizado y efectos de transparencia.
+
+La capacidad para hacer esto de forma sencilla depende mucho de tu **entorno de escritorio**:
+
+* Los usuarios de **KDE Plasma** a menudo pueden hacer esto directamente desde las opciones de su terminal por defecto (Konsole).
+* Sin embargo, en otros entornos muy populares como **GNOME (el escritorio por defecto de Ubuntu)**, Cinnamon o XFCE, se necesita un emulador de terminal más avanzado.
+
+Para estos casos, la mejor solución es **Tilix**.
+
+> 👉 **Para una guía detallada paso a paso sobre cómo instalar y configurar Tilix, consulta nuestro documento dedicado:**
+> ### [**Guía de Configuración de Tilix para Fondos y Transparencia**](./GUIA_TILIX.md)
+
+El proceso general que encontrarás en la guía consiste en:
+1.  Instalar Tilix.
+2.  Realizar una pequeña configuración en el archivo `.bashrc` para habilitar el soporte de fondos.
+3.  Activar la imagen y la transparencia directamente desde los perfiles de Tilix.
+
+Al combinarlo con un buen fondo, el resultado es espectacular.
+
+<p align="center">
+  <img src="https://github.com/BalantryFernando/guia-personalizacion-terminal-linux/blob/main/imagen.png?raw=true" alt="Ejemplo de Terminal con Fondo en Tilix" width="1200">
+</p>
 
 ---
 Si te ha gustado esta guía, ¡dale una ⭐ al repositorio!
