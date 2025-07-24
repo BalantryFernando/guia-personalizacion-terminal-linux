@@ -203,7 +203,7 @@ El proceso general que encontrarás en la guía consiste en:
 Al combinarlo con un buen fondo, el resultado es espectacular.
 
 <p align="center">
-  <img src="https://github.com/BalantryFernando/guia-personalizacion-terminal-linux/blob/main/imagen.png?raw=true" alt="Ejemplo de Terminal con Fondo en Tilix" width="1200">
+  <img src="https://github.com/BalantryFernando/guia-personalizacion-terminal-linux/blob/main/bannertotal.png?raw=true" alt="Ejemplo de Terminal con Fondo en Tilix" width="1200">
 </p>
 
 ---
